@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (D1.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  D1.cpp
+C:\Users\DeLL\source\repos\D1\D1\D1.cpp(299,12): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  D1.vcxproj -> C:\Users\DeLL\source\repos\D1\x64\Debug\SAÜ ÖDEV1.exe
